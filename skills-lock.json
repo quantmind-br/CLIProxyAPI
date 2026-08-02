@@ -1,0 +1,11 @@
+{
+  "skills": {
+    "webshare-api": {
+      "computedHash": "21450e3a9f72ad1c9bebbcd57df477d3f8d2ebc38f60b301c7f4db0360aa5cf2",
+      "skillPath": "webshare-api/SKILL.md",
+      "source": "/home/diogo/dev/skills",
+      "sourceType": "local"
+    }
+  },
+  "version": 1
+}

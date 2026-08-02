@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "webshare-api": {
+      "canonicalPath": "webshare-api",
+      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
+      "baseTree": "93e416e2712d21750493c84046d452ca7341333b",
+      "baseTreeHash": "450c9e016a127c29b70dd6574c9cd3e96394b77208cc084a30bd33c3f94eebb8",
+      "dirHash": "5bee06941282893b4d6636f0657df8863b2f63249f80d22cf0171b50d67971b4",
+      "syncedAt": "2026-08-02T20:56:14.69257613Z"
+    }
+  }
+}
