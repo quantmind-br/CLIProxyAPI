@@ -6,6 +6,12 @@
       "source": "/home/diogo/dev/skills",
       "sourceType": "local"
     },
+    "cliproxyapi-remote-management": {
+      "computedHash": "bc076f854e3f48629b347eae0f167a0b21fac19d265d4fa44537fb0e5a8495d7",
+      "skillPath": "cliproxyapi-remote-management/SKILL.md",
+      "source": "/home/diogo/dev/skills",
+      "sourceType": "local"
+    },
     "webshare-api": {
       "computedHash": "21450e3a9f72ad1c9bebbcd57df477d3f8d2ebc38f60b301c7f4db0360aa5cf2",
       "skillPath": "webshare-api/SKILL.md",

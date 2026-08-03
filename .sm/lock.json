@@ -9,6 +9,14 @@
       "dirHash": "4ee67d8c1ea8e6104e043967f222f15ab1a59e8fa4903de7b4da583a6001eb82",
       "syncedAt": "2026-08-03T20:25:58.107119295Z"
     },
+    "cliproxyapi-remote-management": {
+      "canonicalPath": "cliproxyapi-remote-management",
+      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
+      "baseTree": "3077ae01b1f2d4aa88bceab70303920a67b5ff36",
+      "baseTreeHash": "42cecc11b3fe37bfddef904ae7887ab16ffb2afc5743824960f126b9df368233",
+      "dirHash": "c156df819424dc92d413b181a1a7a1ff02958eebb4069f22ec4a5de0b87f4c17",
+      "syncedAt": "2026-08-03T20:26:01.251291625Z"
+    },
     "webshare-api": {
       "canonicalPath": "webshare-api",
       "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
