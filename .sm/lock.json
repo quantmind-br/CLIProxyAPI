@@ -1,6 +1,14 @@
 {
   "version": 1,
   "skills": {
+    "cliproxyapi-plugin-development": {
+      "canonicalPath": "cliproxyapi-plugin-development",
+      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
+      "baseTree": "6958ce4eeb42b44cbdb919537d7060e7a62553f8",
+      "baseTreeHash": "e9b55b595d02e9c50027771c10c94b0c03893c25491266bab9f1c3b80d1cefc8",
+      "dirHash": "4ee67d8c1ea8e6104e043967f222f15ab1a59e8fa4903de7b4da583a6001eb82",
+      "syncedAt": "2026-08-03T20:25:58.107119295Z"
+    },
     "webshare-api": {
       "canonicalPath": "webshare-api",
       "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",

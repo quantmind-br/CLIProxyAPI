@@ -1,5 +1,11 @@
 {
   "skills": {
+    "cliproxyapi-plugin-development": {
+      "computedHash": "a4dc8ac5832ce5fa0ea8ad97ac301fc94e4852f073143193d8a198a1d3b8b122",
+      "skillPath": "cliproxyapi-plugin-development/SKILL.md",
+      "source": "/home/diogo/dev/skills",
+      "sourceType": "local"
+    },
     "webshare-api": {
       "computedHash": "21450e3a9f72ad1c9bebbcd57df477d3f8d2ebc38f60b301c7f4db0360aa5cf2",
       "skillPath": "webshare-api/SKILL.md",
