@@ -11,11 +11,11 @@
     },
     "cliproxyapi-remote-management": {
       "canonicalPath": "cliproxyapi-remote-management",
-      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
-      "baseTree": "3077ae01b1f2d4aa88bceab70303920a67b5ff36",
-      "baseTreeHash": "42cecc11b3fe37bfddef904ae7887ab16ffb2afc5743824960f126b9df368233",
-      "dirHash": "c156df819424dc92d413b181a1a7a1ff02958eebb4069f22ec4a5de0b87f4c17",
-      "syncedAt": "2026-08-03T20:26:01.251291625Z"
+      "baseCommit": "178991be3b6f847f98bf2c3d8de5550b5b910048",
+      "baseTree": "7f96afa1cb62c78404edd536ce5ed63955ed1e94",
+      "baseTreeHash": "b45b907b16174c863e67ade0c982d6d57e34190130780438ad1e39e81e30b603",
+      "dirHash": "55fe66965b4508ef22db6ae719b6f576bcff2c97d5c712cf58ade289b86fd7d7",
+      "syncedAt": "2026-08-06T20:38:14.074669142Z"
     },
     "webshare-api": {
       "canonicalPath": "webshare-api",
