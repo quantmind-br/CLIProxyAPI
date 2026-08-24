@@ -19,11 +19,11 @@
     },
     "webshare-api": {
       "canonicalPath": "webshare-api",
-      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
+      "baseCommit": "38adc3ef88e0dba852ec9f0033a8447dfd9401f0",
       "baseTree": "93e416e2712d21750493c84046d452ca7341333b",
       "baseTreeHash": "450c9e016a127c29b70dd6574c9cd3e96394b77208cc084a30bd33c3f94eebb8",
-      "dirHash": "5bee06941282893b4d6636f0657df8863b2f63249f80d22cf0171b50d67971b4",
-      "syncedAt": "2026-08-02T20:56:14.69257613Z"
+      "dirHash": "7809bd031c0fca28e611a3ef3b54ed66e15004c57350edc7765a4b06bdeab18f",
+      "syncedAt": "2026-08-24T23:32:51.7999003Z"
     }
   }
 }
