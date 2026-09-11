@@ -3,11 +3,11 @@
   "skills": {
     "cliproxyapi-plugin-development": {
       "canonicalPath": "cliproxyapi-plugin-development",
-      "baseCommit": "10153c86f367e4c88db221f285e1f944c6ba80f6",
-      "baseTree": "6958ce4eeb42b44cbdb919537d7060e7a62553f8",
-      "baseTreeHash": "e9b55b595d02e9c50027771c10c94b0c03893c25491266bab9f1c3b80d1cefc8",
-      "dirHash": "4ee67d8c1ea8e6104e043967f222f15ab1a59e8fa4903de7b4da583a6001eb82",
-      "syncedAt": "2026-08-03T20:25:58.107119295Z"
+      "baseCommit": "d4a1d875bb783132e3d7070e49f57f23b73739cb",
+      "baseTree": "8d02768bf0585125e349e3044e294e06bc68858d",
+      "baseTreeHash": "ff1500a84a9248960e5c2b7ac1b9789e074f5679a6bd54a859f469b7470bd989",
+      "dirHash": "f41cf6c812ec1b503b7cec62524a14ac7547fa4bfd63c1ccb6f0ae445f86c316",
+      "syncedAt": "2026-09-11T11:49:31.746850216Z"
     },
     "cliproxyapi-remote-management": {
       "canonicalPath": "cliproxyapi-remote-management",
