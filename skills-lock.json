@@ -1,13 +1,13 @@
 {
   "skills": {
     "cliproxyapi-plugin-development": {
-      "computedHash": "50dc51127539d856dcd7be7412f4aeec34efdc663a88c2d36b21776215fc60f0",
+      "computedHash": "51f2df5d56f8b984fa2ea6e464b2c2aac9033957657cd9b5204a5d3573f7ba74",
       "skillPath": "cliproxyapi-plugin-development/SKILL.md",
       "source": "/home/diogo/dev/skills",
       "sourceType": "local"
     },
     "cliproxyapi-remote-management": {
-      "computedHash": "4b4d2a7c5b944f8fa746a727c5557a15bdb6af3d6d9d905c609c7b16df5640b1",
+      "computedHash": "85b9022317ddf9f2eac623d222c523dccfd1d006d95f0a312a6abaf0c7568065",
       "skillPath": "cliproxyapi-remote-management/SKILL.md",
       "source": "/home/diogo/dev/skills",
       "sourceType": "local"

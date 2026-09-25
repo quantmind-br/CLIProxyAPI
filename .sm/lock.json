@@ -3,19 +3,19 @@
   "skills": {
     "cliproxyapi-plugin-development": {
       "canonicalPath": "cliproxyapi-plugin-development",
-      "baseCommit": "d4a1d875bb783132e3d7070e49f57f23b73739cb",
-      "baseTree": "8d02768bf0585125e349e3044e294e06bc68858d",
-      "baseTreeHash": "ff1500a84a9248960e5c2b7ac1b9789e074f5679a6bd54a859f469b7470bd989",
-      "dirHash": "f41cf6c812ec1b503b7cec62524a14ac7547fa4bfd63c1ccb6f0ae445f86c316",
-      "syncedAt": "2026-09-11T11:49:31.746850216Z"
+      "baseCommit": "cf525d358cd4dfa91a2ed04e7ecb3bd3209409fd",
+      "baseTree": "a1cfcda2517356e3174f5417a185ce43b61c50ec",
+      "baseTreeHash": "31e2853c1dd1f363f718526ccb8286bfc1770f198c251fc7eb449045379516e8",
+      "dirHash": "406967fa54543e8dfe594d564e15c02f1e0e58e984d8aa56ee71048b126373d3",
+      "syncedAt": "2026-09-25T07:25:26.32248099Z"
     },
     "cliproxyapi-remote-management": {
       "canonicalPath": "cliproxyapi-remote-management",
-      "baseCommit": "7f0c340ef7f48b2364f9ef9c422939e6ac56f78b",
-      "baseTree": "2960b7a065785003f647ab1f310430899c4a868a",
-      "baseTreeHash": "20316f7c94e739c14b9c57cb8e585cfc54867617727be542c38762a47a6d315f",
-      "dirHash": "00062c480bf0cb9c22979d7f8b35987a9a4147293cc2abbc2f465a4b11ef1439",
-      "syncedAt": "2026-09-10T22:16:03.933192718Z"
+      "baseCommit": "5d0dc99899cc6085d0f30e855f90aec4553d2118",
+      "baseTree": "a99d7722625acd3ad6f1a04335b5c5794c82d4d6",
+      "baseTreeHash": "e169abf56f2868877271ee36965828e39a1bb2efc04cf776690eab114b71ed07",
+      "dirHash": "4fbeb03d4ea6b85ced1d8b753323421999f3a46d8075893de9b326477c40027b",
+      "syncedAt": "2026-09-25T07:25:26.373221565Z"
     },
     "webshare-api": {
       "canonicalPath": "webshare-api",
